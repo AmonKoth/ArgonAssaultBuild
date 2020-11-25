@@ -1,0 +1,15 @@
+v0.1
+-Terrain created
+-Movement keys added
+-Firing keys added
+-Explosion and fire fx added
+-"Splash screen" and music player added
+-Enemy ships added
+-Death system for both player and enemy added
+-Enemy now have hp and armor values, player now have dmg value
+-Enemy movement based on timeline added
+v0.2
+-Player rig movement basics added (30 sec gameplay)
+-Firing bug fixed
+-Enemy will now move as squad
+
